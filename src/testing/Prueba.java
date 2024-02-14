@@ -16,7 +16,7 @@ public class Prueba {
 
          driver.get("https://wikipedia.com");
 
-asdasdasddasdsad
+        driver.quit();
 
 
      }

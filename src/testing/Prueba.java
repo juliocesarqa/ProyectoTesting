@@ -48,6 +48,8 @@ public class Prueba {
          for (WebElement elemento : elementos){ //lee los elementos del List y lo asigna a una variable
              System.out.print(elemento.getText());
              Assert.assertEquals("Problemas en el calendario", elemento.getText());
+             //continuacion...
+
          }
 
      }
